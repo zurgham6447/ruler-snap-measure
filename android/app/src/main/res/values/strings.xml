@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ruler Snap Measure</string>
+
+    <string name="splash_title">RULER SNAP</string>
+    <string name="splash_subtitle">MEASURE SMALL THINGS</string>
+    <string name="splash_caption">CALIBRATING SCALE</string>
+
+    <string name="menu_hero_top">MEASURE</string>
+    <string name="menu_hero_bottom">IN SECONDS</string>
+    <string name="menu_tagline">Millimetres and inches, straight on your screen.</string>
+    <string name="menu_cta_caption">TWO MARKERS · MM AND INCH</string>
+    <string name="menu_tile_history">HISTORY</string>
+    <string name="menu_saved_count">%1$d SAVED</string>
+    <string name="menu_tile_calibrate_caption">CARD REFERENCE</string>
+    <string name="menu_tile_settings">SETTINGS</string>
+    <string name="menu_tile_about">ABOUT</string>
+    <string name="menu_tile_about_caption">PRIVACY</string>
+    <string name="menu_pill_calibrated">CALIBRATED</string>
+    <string name="menu_pill_default">DEFAULT SCALE</string>
+
+    <string name="game_title">RULER</string>
+    <string name="game_subtitle">DRAG THE TWO MARKERS</string>
+    <string name="game_hint">Place the object between the two red lines.</string>
+    <string name="readout_span">SPAN</string>
+    <string name="readout_inch">INCH</string>
+    <string name="readout_scale">SCALE</string>
+    <string name="label_prefix">Part</string>
+
+    <string name="result_eyebrow">MEASUREMENT SAVED</string>
+    <string name="result_conversions">%1$s cm · %2$s in</string>
+    <string name="result_name_label">NAME THIS MEASUREMENT</string>
+    <string name="quick_screw">SCREW</string>
+    <string name="quick_button">BUTTON</string>
+    <string name="quick_hole">HOLE</string>
+
+    <string name="calibration_title">CALIBRATION</string>
+    <string name="calibration_subtitle">MATCH A REAL BANK CARD</string>
+    <string name="calibration_explainer">Hold any bank card against the outline and resize it until the edges line up. Standard card width is 85.60 mm.</string>
+    <string name="calibration_scale_label">PIXELS PER MM</string>
+
+    <string name="history_title">HISTORY</string>
+    <string name="history_subtitle">EVERY SAVED SPAN</string>
+    <string name="history_section_recent">RECENT</string>
+    <string name="history_empty_title">NO MEASUREMENTS YET</string>
+    <string name="history_empty_caption">Saved spans will appear here.</string>
+
+    <string name="settings_title">SETTINGS</string>
+    <string name="settings_subtitle">UNITS AND FEEDBACK</string>
+    <string name="settings_section_units">UNITS</string>
+    <string name="settings_section_orientation">RULER ORIENTATION</string>
+    <string name="settings_section_feedback">FEEDBACK</string>
+    <string name="settings_section_calibration">CALIBRATION</string>
+    <string name="settings_haptics">HAPTIC FEEDBACK</string>
+    <string name="settings_current_scale">Current scale, pixels per millimetre</string>
+    <string name="orientation_vertical">VERTICAL</string>
+    <string name="orientation_horizontal">HORIZONTAL</string>
+
+    <string name="about_title">ABOUT</string>
+    <string name="about_subtitle">OFFLINE BY DESIGN</string>
+    <string name="about_brand">RULER SNAP MEASURE</string>
+    <string name="about_version">VERSION 1.0</string>
+    <string name="about_section_what">WHAT IT DOES</string>
+    <string name="about_what_body">Lay a small object on the screen, drag the two red markers to its edges and read the span in millimetres and inches at the same time. Calibrate once against a bank card and the scale stays correct on this device. Every span can be named and saved for later.</string>
+    <string name="about_section_privacy">PRIVACY POLICY</string>
+    <string name="about_privacy_body">All measurements and settings stay on this device. The app has no internet access and collects nothing.</string>
+    <string name="about_section_contact">CONTACT</string>
+    <string name="about_contact_value">support@rulersnap.app</string>
+    <string name="about_saved_total">%1$d MEASUREMENTS ON THIS DEVICE</string>
+
+    <string name="dialog_clear_title">CLEAR HISTORY?</string>
+    <string name="dialog_clear_body">This removes all %1$d saved measurements.</string>
+    <string name="dialog_hint_title">CALIBRATE FIRST?</string>
+    <string name="dialog_hint_body">The ruler currently uses the screen density reported by the device. Match it against a bank card for a precise millimetre scale.</string>
+
+    <string name="cta_start">START MEASURING</string>
+    <string name="cta_save">SAVE MEASUREMENT</string>
+    <string name="cta_again">MEASURE AGAIN</string>
+    <string name="cta_menu">MENU</string>
+    <string name="cta_reset">RESET</string>
+    <string name="cta_calibrate">CALIBRATE</string>
+    <string name="cta_save_calibration">SAVE CALIBRATION</string>
+    <string name="cta_reset_default">RESET TO DEFAULT</string>
+    <string name="cta_open_calibration">OPEN CALIBRATION</string>
+    <string name="cta_back_to_menu">BACK TO MENU</string>
+    <string name="cta_clear">CLEAR</string>
+    <string name="cta_cancel">CANCEL</string>
+    <string name="cta_later">LATER</string>
+
+    <string name="unit_mm">MM</string>
+    <string name="unit_cm">CM</string>
+    <string name="unit_inch">INCH</string>
+    <string name="unit_mm_short">mm</string>
+    <string name="unit_cm_short">cm</string>
+    <string name="unit_inch_short">in</string>
+    <string name="value_with_unit">%1$s %2$s</string>
+
+    <string name="stat_last">LAST</string>
+    <string name="stat_saved">SAVED</string>
+    <string name="stat_best">BEST SPAN</string>
+    <string name="stat_average">AVERAGE</string>
+
+    <string name="cd_back">Back</string>
+    <string name="cd_logo">Ruler Snap Measure logo</string>
+    <string name="cd_lock_markers">Lock the markers</string>
+    <string name="cd_marker_a">First marker</string>
+    <string name="cd_marker_b">Second marker</string>
+    <string name="cd_card_reference">Bank card used as the size reference</string>
+    <string name="cd_card_outline">Card outline</string>
+    <string name="cd_decrease">Decrease the scale</string>
+    <string name="cd_increase">Increase the scale</string>
+    <string name="cd_clear_history">Clear the history</string>
+    <string name="cd_delete_entry">Delete this measurement</string>
+
+    <string name="state_loading">Loading</string>
+    <string name="state_calibrated">Calibrated</string>
+    <string name="state_default_scale">Using the default scale</string>
+    <string name="state_markers_locked">Markers locked</string>
+    <string name="state_markers_free">Markers unlocked</string>
+    <string name="state_selected">Selected</string>
+    <string name="state_not_selected">Not selected</string>
+    <string name="state_card_width">Card width %1$s pixels per millimetre</string>
+    <string name="state_on">On</string>
+    <string name="state_off">Off</string>
+</resources>
